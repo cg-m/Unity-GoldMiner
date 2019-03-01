@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 26ca6ad29214e6342b40b5fda1f01648
+timeCreated: 1516184206
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: iCiel Crocante
+  fontNames:
+  - iCiel Crocante
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
